@@ -16,6 +16,7 @@
 
 
 
+
 <div align="center">
   
 [Download the Latest Version](https://github.com/Healix-YT/Solara-Executor-Download/releases/tag/Download)
